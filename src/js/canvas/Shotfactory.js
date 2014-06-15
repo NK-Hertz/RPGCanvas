@@ -83,7 +83,7 @@
 
         for (var index in shotIndexesForRemoval) {
             shots.splice(index, 1);
-			shotIndexesForRemoval.splice(index, 1);
+	    shotIndexesForRemoval.splice(index, 1);
         }
     };
 }
